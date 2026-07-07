@@ -1,0 +1,16 @@
+[
+  {
+    "id": "example_plugin",
+    "title": "Example Plugin",
+    "author": "Bay4lly",
+    "version": "1.0.0",
+    "description": "A sample plugin to demonstrate Bay4lly Shop functionality.",
+    "category": "Tools",
+    "folder": "example_plugin",
+    "featured": true,
+    "verified": true,
+    "beta": false,
+    "tags": ["Sample", "Tool", "Example"],
+    "min_version": "4.0.0"
+  }
+]
