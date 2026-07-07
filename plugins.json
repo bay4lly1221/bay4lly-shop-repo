@@ -26,8 +26,8 @@
     "category": "Models",
     "folder": "geckomeshy",
     "filename": "geckomeshy.js",
-    "featured": false,
-    "verified": false,
+    "featured": true,
+    "verified": true,
     "beta": false,
     "tags": [
       "geckolib",
