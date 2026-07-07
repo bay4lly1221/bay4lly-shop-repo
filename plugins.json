@@ -2,7 +2,7 @@
   {
     "id": "bbs_exporter",
     "title": "BBS Exporter/Importer",
-    "author": "bay4lly1221",
+    "author": "McHorse",
     "version": "1.3.2",
     "description": "Adds actions to export/import models in BBS format, which is used by BBS mod.",
     "category": "Tools",
