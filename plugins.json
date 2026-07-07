@@ -34,5 +34,22 @@
       "mesh"
     ],
     "min_version": "4.0.0"
+  },
+  {
+    "id": "ex",
+    "title": "example",
+    "author": "bay4lly1221",
+    "version": "1.0.0",
+    "description": "ex",
+    "category": "Textures",
+    "folder": "ex",
+    "filename": "ex.js",
+    "featured": false,
+    "verified": false,
+    "beta": false,
+    "tags": [
+      "ex"
+    ],
+    "min_version": "4.0.0"
   }
 ]
