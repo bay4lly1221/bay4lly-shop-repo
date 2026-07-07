@@ -10,7 +10,27 @@
     "featured": true,
     "verified": true,
     "beta": false,
-    "tags": ["Sample", "Tool", "Example"],
+    "tags": [
+      "Sample",
+      "Tool",
+      "Example"
+    ],
+    "min_version": "4.0.0"
+  },
+  {
+    "id": "bbs_exporter",
+    "title": "BBS Exporter",
+    "author": "bay4lly1221",
+    "version": "1.0.0",
+    "description": "BBS Exporter",
+    "category": "Tools",
+    "folder": "bbs_exporter",
+    "featured": false,
+    "verified": false,
+    "beta": false,
+    "tags": [
+      "BBSExporter"
+    ],
     "min_version": "4.0.0"
   }
 ]
