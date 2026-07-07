@@ -19,19 +19,18 @@
   },
   {
     "id": "geckomeshy",
-    "title": "GeckoMeshy",
+    "title": "example",
     "author": "bay4lly1221",
-    "version": "1.0",
-    "description": "Enables the use of a meshes in bedrock and GeckoLib formats and to export them to Minecraft.",
-    "category": "Models",
+    "version": "1.0.0",
+    "description": "ex",
+    "category": "Textures",
     "folder": "geckomeshy",
     "filename": "geckomeshy.js",
-    "featured": true,
-    "verified": true,
+    "featured": false,
+    "verified": false,
     "beta": false,
     "tags": [
-      "geckolib",
-      "mesh"
+      "ex"
     ],
     "min_version": "4.0.0"
   }
