@@ -32,21 +32,5 @@
       "BBSExporter"
     ],
     "min_version": "4.0.0"
-  },
-  {
-    "id": "bbs_exporterrr",
-    "title": "BBS EXPORTERRR",
-    "author": "bay4lly1221",
-    "version": "1.0.0",
-    "description": "BBS EXPORTERRR",
-    "category": "Tools",
-    "folder": "bbs_exporterrr",
-    "featured": false,
-    "verified": false,
-    "beta": false,
-    "tags": [
-      "bbs"
-    ],
-    "min_version": "4.0.0"
   }
 ]
